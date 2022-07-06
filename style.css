@@ -106,13 +106,10 @@ body{
     color: rgb(75, 75, 75);
     font-weight: 500;
 }
-
 .family{
     margin-top: 40px;
     display: flex;
-    
 }
-
 .food-family{
     width: 33.4%;
     padding: 50px;
@@ -130,7 +127,6 @@ body{
     border-radius: 8px;
     padding-top: 60px;
     padding: 50px;
-    
 }
 .education-family{
     width: 33.4%;
@@ -169,7 +165,6 @@ body{
     font-size: 22px;
     margin-top: 10px;
     color:rgb(107, 107, 107)
-
 }
 .lives-depend-right img{
     width: 90%;
@@ -239,7 +234,6 @@ body{
     margin: auto;
     color:rgb(107, 107, 107)
 }
-
 .footer{
     background-color: #000000;
     height: 180px;
