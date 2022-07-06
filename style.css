@@ -19,7 +19,7 @@ body{
     border:0px solid rgb(10, 10, 10);
 }
 .container{
-    width: 70%;
+    width: 80%;
     margin: auto;
 }
 #header h1{
@@ -59,7 +59,7 @@ body{
     font-weight: 500;
 }
 .taka{
-    margin-left: 100px;
+    margin-left: 10%;
     margin-top: 50px;
     margin-bottom: 320px;
 }
@@ -120,7 +120,6 @@ body{
     background-color: #a9e4ff;
     margin-right:15px;
     border-radius: 8px;
-    height: 250px;
     padding-top: 60px;
 }
 .shelter-family{
