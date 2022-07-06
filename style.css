@@ -72,7 +72,7 @@ body{
     border-radius: 8px;
 }
 .two-hundred h1{
-    border:3px solid #FF5959; height: ;
+    border:3px solid #FF5959;
     background-color: #fcd6d6;    
 }
 .amount{
@@ -158,7 +158,7 @@ body{
 }
 .lives-depend-right{
     width: 50%;
-    padding left: 50px
+    padding-left: 50px;
 }
 .lives-depend-left h1{
     font-size: 50px;
